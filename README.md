@@ -1,4 +1,4 @@
-# onlinestorevuetify
+# Calender-Vue-Vuetify (https://optimistic-noether-983d6c.netlify.app)
 
 ## Project setup
 ```
